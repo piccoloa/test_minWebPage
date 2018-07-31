@@ -1,0 +1,19 @@
+# Authors
+
+Alex_Piccolo:
+  name        : "Alex Piccolo"
+  bio         : "Drinking the kool-aid"
+  location    : "New Jersey, USA"
+  avatar      : "/assets/images/bio-photo.jpg"
+  twitter     : "PiccoloSunday"
+  facebook    : #"drjjmc"
+  linkedin    : "alex-piccolo-cfa"
+  orcid       : "0000-0002-4499-8488"
+  github      : "piccoloa"
+  impactstory : "0000-0002-4499-8488"
+  inspirehep  : # "J.J.M.Carrasco.1"
+  google_scholar     : # "yWNpZHwAAAAJ"
+  google_plus : # "JohnJosephCarrasco"
+
+FourOhFour:
+  avatar        : "reimann.jpg"
