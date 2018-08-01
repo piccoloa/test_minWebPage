@@ -1,13 +1,13 @@
 ---
 title: The Death of Expertise
-excerpt: Originally shared on linkedin
+excerpt: "Shared Article"
 header:
   teaser: "assets/images/unsplash-gallery-image-3-th.jpg"
   overlay_color: "#5e616c"
   overlay_image: "assets/images/unsplash-gallery-image-3-th.jpg"
   overlay_filter: .4
 categories:
-- notes
+- experts
 tags:
 - thefederalist
 author: Alex_Piccolo

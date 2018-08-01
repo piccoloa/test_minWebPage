@@ -20,6 +20,10 @@ Big-Data:
     children:
       - title: "Overview"
         url: /datalakes/
+  - title: "Data Science"
+    children:
+      - title: "Set-Up"
+        url: /data_science1/
   - title: "Entity Resolution"
     children:
       - title: "Overview"

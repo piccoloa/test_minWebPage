@@ -1,16 +1,22 @@
 ---
-permalink: /datalakes/
 title:  "Data Lakes: Overview"
 excerpt: 'This is the first blog under the topic Data Lakes and will be followed by additional topics pertaining to data lakes. Each topic will go deeper and share additional details and links to practical tools that I have discovered.'
 sidebar:
   title: "Big Data"
   nav: Big-Data
+permalink: /datalakes/
+categories:
+- big data
+- datalakes
+- fitbit
+# comments: true
+author: Alex_Piccolo
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
+  - url: /assets/images/oxfordPond.png
+    image_path: /assets/images/hadrianWall.png
     alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
+  - url: /assets/images/hadrianWall.png
+    image_path: /assets/images/hadrianWall.png
     alt: "single layout with comments and related posts"
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
@@ -18,11 +24,6 @@ layouts_gallery:
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
-
-![png](/static/oxfordPond.jpg)
-[Oxford Botanic Garden Pond](https://www.google.com/maps/place/51%C2%B045'02.9%22N+1%C2%B014'48.5%22W/@51.7508,-1.2489887,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d51.7508!4d-1.2468)
-
-_Part 1_
 ### Notes From Concept to Implementation  
 
  This is the first blog under the topic **Data Lakes** and will be followed by additional topics pertaining to data lakes.  Each post will start with the title Data Lakes followed by a [:new topic].  Each topic will go deeper and share additional details and links to practical tools that I have discovered.  The goal is to better understand the impact of data lakes on the analytics value chain.   This post broadly covers the following questions:
@@ -87,32 +88,3 @@ The centralized nature of a data lake could allow for greater governance versus 
 Data lake users and zones are typically segmented into four zones: a landing zone where data scientists, developers, and data engineers have access; a gold zone where analysts and data scientists have access; a work zone for data scientists and data engineers; and finally a sensitive zone where data stewards and trusted analysts have access.  
 
 One approach to governance is to implement a method for de-identifying sensitive data.  Since the data is written quickly without schema, the ability to tag data on original write is limited for efficiency reasons.  Some profiling tools have been built to scan the data lake and look for sensitive data.  These tools include [DataGuise](https://www.dataguise.com/) and [Waterline Data.](https://www.waterlinedata.com/) Another approach is transparent encryption that is offered by [Cloudera Navigator](https://www.cloudera.com/products/product-components/cloudera-navigator.html)  that encrypts data when it is written and de-crypts the data when read.   
-
-
-
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.

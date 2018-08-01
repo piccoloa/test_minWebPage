@@ -3,13 +3,12 @@ title:  "Data Lakes: Overview"
 excerpt: 'Collection: Notes from concept to implementation.'
 permalink: /datalakes/
 header:
-  teaser: "assets/images/unsplash-gallery-image-3-th.jpg"
+  teaser: "assets/images/oxfordPond.jpg"
   overlay_color: "#5e616c"
-  overlay_image: "assets/images/unsplash-gallery-image-3-th.jpg"
+  overlay_image: "assets/images/oxfordPond.jpg"
   overlay_filter: .4
 categories:
-- big data
-- datalakes
+- newstory
 # comments: true
 author: Alex_Piccolo
 output:

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://0.0.0.0:4000/data_science1/</loc>
+<lastmod>2018-07-31T21:27:49-04:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/BigData/</loc>
-<lastmod>2018-07-31T18:06:40-04:00</lastmod>
+<lastmod>2018-07-31T21:27:49-04:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/datalakes/</loc>
@@ -17,15 +21,11 @@
 <lastmod>2018-06-04T12:04:24-04:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/notes/2017_Mathematica_Prettifier/</loc>
-<lastmod>2017-08-17T00:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>http://0.0.0.0:4000/notes/welcome-to-jekyll/</loc>
 <lastmod>2018-04-16T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/notes/LinkedIn-Story/</loc>
+<loc>http://0.0.0.0:4000/experts/LinkedIn-Story/</loc>
 <lastmod>2018-05-18T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -33,16 +33,23 @@
 <lastmod>2018-05-21T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/Airforce_cbs/</loc>
+<loc>http://0.0.0.0:4000/notes/Airforce_cbs/</loc>
 <lastmod>2018-05-25T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/Cree1/</loc>
+<loc>http://0.0.0.0:4000/notes/Cree1/</loc>
 <lastmod>2018-05-29T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/data_science1/</loc>
+<lastmod>2018-05-31T00:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/notes/PersonalData1/</loc>
 <lastmod>2018-06-06T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/data_science1/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/about/</loc>

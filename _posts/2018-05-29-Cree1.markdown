@@ -1,7 +1,20 @@
 ---
-layout: post
-title:  'Shared Article: "We don’t use a corporate jet anymore"'
-comments: true
-date:   2018-05-29
+title:  '"We don’t use a corporate jet anymore"'
+excerpt: "Shared Article"
+header:
+   teaser: "assets/images/unsplash-gallery-image-3-th.jpg"
+   overlay_color: "#5e616c"
+   overlay_image: "assets/images/unsplash-gallery-image-3-th.jpg"
+   overlay_filter: .4
+categories:
+- notes
+tags:
+- cree
+- corporate culture
+author: Alex_Piccolo
+output:
+    html_document:
+            css: prettify.css
+pinned: false
 ---
 [For sale! Cree's corporate jet — under CEO's order](https://www.bizjournals.com/triangle/news/2018/05/22/for-sale-crees-corporate-jet-under-ceos-order.html)
