@@ -58,4 +58,4 @@ var store = [{
         "excerpt":"Good details on how to understand where and how our personal identity is collected and shared. How to do a data detox, in a zillion easy steps “I understand that our data is being collected to make products more useful to us and to make us more useful to advertisers....","categories": ["notes"],
         "tags": ["personal data","google","facebook"],
         "url": "http://0.0.0.0:4000/notes/PersonalData1/",
-        "teaser":"http://0.0.0.0:4000/assets/images/unsplash-gallery-image-3-th.jpg"},]
+        "teaser":"http://0.0.0.0:4000/assets/images/unsplash-gallery-image-3-th.jpg"}]

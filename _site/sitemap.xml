@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://0.0.0.0:4000/data_science1/</loc>
-<lastmod>2018-07-31T21:27:49-04:00</lastmod>
+<lastmod>2018-08-01T20:36:48-04:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/BigData/</loc>
-<lastmod>2018-07-31T21:27:49-04:00</lastmod>
+<lastmod>2018-08-01T20:36:48-04:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/datalakes/</loc>
@@ -49,9 +49,6 @@
 <lastmod>2018-06-06T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/data_science1/</loc>
-</url>
-<url>
 <loc>http://0.0.0.0:4000/about/</loc>
 <lastmod>2018-06-04T12:04:24-04:00</lastmod>
 </url>
@@ -89,19 +86,14 @@
 <loc>http://0.0.0.0:4000/page-b/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/pets/</loc>
-</url>
-<url>
 <loc>http://0.0.0.0:4000/portfolio/</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/post-archive-feature-rows/</loc>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/recipes/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/sample-page/</loc>
+<loc>http://0.0.0.0:4000/resume/</loc>
+<lastmod>2018-06-04T12:04:24-04:00</lastmod>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/sitemap/</loc>

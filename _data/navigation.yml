@@ -4,9 +4,9 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
+  - title: "Posts"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Collections"
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
@@ -22,7 +22,7 @@ Big-Data:
         url: /datalakes/
   - title: "Data Science"
     children:
-      - title: "Set-Up"
+      - title: "Set-Up Example"
         url: /data_science1/
   - title: "Entity Resolution"
     children:
