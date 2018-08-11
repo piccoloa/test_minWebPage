@@ -15,7 +15,7 @@ var store = [{
         "url": "http://0.0.0.0:4000/datalakes/",
         "teaser":"http://0.0.0.0:4000/assets/images/500x300.ppg"},{
         "title": "Entity Resolution: Overview",
-        "excerpt":"What is Entity Resolution? Entity Resolution is the task of disambiguating manifestations of real world entities in various records or mentions by linking and grouping.1 Effectively reducing something to its most basic conical form. Linking entities to form relationships and draw conclusions from data is becoming increasingly relevant as data...","categories": ["Exploring Big Data"],
+        "excerpt":"What is Entity Resolution? Entity Resolution is the task of disambiguating manifestations of real world entities in various records or mentions by linking and grouping.1 Effectively reducing something to its most basic conical form. Linking entities to form relationships and draw conclusions from data is becoming increasingly relevant as making...","categories": ["Exploring Big Data"],
         "tags": [],
         "url": "http://0.0.0.0:4000/entityresolution_over/",
         "teaser":"http://0.0.0.0:4000/assets/images/500x300.ppg"},{
