@@ -2,6 +2,7 @@
 permalink: /entityresolution/
 title: Identity Resolution
 excerpt: 'Exploring different models to eliminate redundant and erroneous text records from different sources to manage personally identifiable information(PII)'
+author_profile: false
 category: Exploring Big Data
 sidebar:
   title: "Big Data"
